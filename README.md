@@ -42,6 +42,13 @@ the ripozo version on `localhost:4000`
 If you just want to run the simple version do: `docker-compose up myapp`. 
 Alterntivately for the `ripozo` version: `docker-compose up myapp-ripozo`.
 
+## Testing
+
+After installing the application simply run
+```
+docker-compose run myapp test
+```
+
 ## Play with the walk-through
 
 For the ripozo app, there is a simple walkthrough that you can do by running
