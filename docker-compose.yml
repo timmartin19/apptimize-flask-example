@@ -1,0 +1,18 @@
+version: "2"
+
+services:
+  myapp:
+    build: .
+    ports:
+      - 5000:5000
+    volumes:
+      - ./:/app
+    command: run-app
+
+  myapp-ripozo:
+    build: .
+    ports:
+      - 4000:4000
+    volumes:
+      - ./:/app
+    command: run-ripozo
