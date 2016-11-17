@@ -55,12 +55,12 @@ from the `Installation` instructions is the easiest way.
 ## Helpful Links
 
 * [Flask](http://flask.pocoo.org/)
-** [Flask Quickstart](http://flask.pocoo.org/docs/0.11/quickstart/)
+    * [Flask Quickstart](http://flask.pocoo.org/docs/0.11/quickstart/)
 * [SQLAlchemy](http://www.sqlalchemy.org/)
-** [SQLAlchemy ORM](http://docs.sqlalchemy.org/en/latest/orm/tutorial.html)  (Note: Flask-SQLAlchemy makes it very easy to manage the sessions and such)
-** [SQLAlchemy ORM Tutorial Again](http://pythoncentral.io/sqlalchemy-orm-examples/)
+    * [SQLAlchemy ORM](http://docs.sqlalchemy.org/en/latest/orm/tutorial.html)  (Note: Flask-SQLAlchemy makes it very easy to manage the sessions and such)
+    * [SQLAlchemy ORM Tutorial Again](http://pythoncentral.io/sqlalchemy-orm-examples/)
 * [Flask-SQLAlchemy](http://flask-sqlalchemy.pocoo.org/2.1/)
-** [Flask-SQLAlchemy Quickstart](http://flask-sqlalchemy.pocoo.org/2.1/quickstart/)
+    * [Flask-SQLAlchemy Quickstart](http://flask-sqlalchemy.pocoo.org/2.1/quickstart/)
 * [ripozo](http://ripozo.org/en/latest/)
-** [flask-ripozo](https://flask-ripozo.readthedocs.io/en/latest/)
-** [ripozo-sqlalchemy](http://ripozo-sqlalchemy.readthedocs.io/en/latest/)
+    * [flask-ripozo](https://flask-ripozo.readthedocs.io/en/latest/)
+    * [ripozo-sqlalchemy](http://ripozo-sqlalchemy.readthedocs.io/en/latest/)
